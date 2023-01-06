@@ -5,7 +5,9 @@ h1{
     background-color: #5AACCF;
     padding 3rem 3rem;
     margin-top: 0px;
+    font-size: xx-large;
 }
+
 textarea{
     height:5rem;
     border-color:gray;
