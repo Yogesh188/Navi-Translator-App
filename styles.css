@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Quicksand:wght@600&display=swap');
+
+
+h1{
+    background-color: #5AACCF;
+    padding 3rem 3rem;
+    margin-top: 0px;
+}
+textarea{
+    height:5rem;
+    border-color:gray;
+    width: 80%;
+    align-self: center;
+    padding:1rem 1rem;
+    font-family: 'Acme', sans-serif;
+    font-size: medium;
+}
+
+body {
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    background-color: #5AACCF;
+}
+
+button{
+    height:4rem;
+    border-color:gray;
+    width: 80%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: larger;
+    font-family: 'Acme', sans-serif;
+    background-color: #2E67A0;
+}
+
+#output{
+    border:1px solid gray;
+    background-color: white;
+    height:5rem;
+    width: 80%;
+    align-self: center;
+    padding:1rem 1rem;
+    margin: auto;
+    font-family: 'Acme', sans-serif;
+    font-size: large;
+}
+
+img {
+    height: auto;  
+    max-width: 90%;
+    max-height: 300px;   
+    margin-bottom: 0px;
+  }
+
+footer{
+    height:2 rem;
+    padding:1rem 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: #5AACCF;
+}
+
+p{
+    font-size:medium;
+}
