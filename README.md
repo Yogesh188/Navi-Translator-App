@@ -2,14 +2,14 @@
 It translates english to NAVI language.
 GUI app made with VanilaJS and FunTranslate API.
 
+Here is the link to see app in working:
+https://translate2navi.netlify.app/
+
 Contact for update/Suggestion/error
 yogeshkumbhar188@gmail.com
 
 you can also check out my other apps here,
 https://yogeshkumbhar.netlify.app/
-
-Here is the link to see app in working:
-https://translate2navi.netlify.app/
 
 Here is a screnshot of the app
 
